@@ -1,0 +1,98 @@
+{
+  "result": 1,
+  "error_msg": "",
+  "data": {
+    "activityId": 236155,
+    "activityName": "风控测试商品券2",
+    "activityStatus": 1,
+    "activityType": 1,
+    "budgetAmount": 20000,
+    "usedAmount": 11893,
+    "hasUseBudgetRate": 0.5947,
+    "startTime": 1750058802209,
+    "endTime": 1750162842209,
+    "creator": "wangziheng07",
+    "modifier": "system",
+    "childBudgetId": 1137035060,
+    "activityConfig": "{\"activityTagCode\":null,\"offlineItemWhenActivityOffline\":false,\"lockItemPrice\":true,\"sendCouponAmountLimit\":0,\"principals\":[\"wangziheng07\"],\"extraConfig\":{\"ServiceName\":\"Lego_v2\"},\"disable\":false,\"couponMinusType\":null,\"allowanceActivityAliasType\":0}",
+    "oaBillStartTime": 0,
+    "oaBillEndTime": 0,
+    "followStatus": 0,
+    "subscriberList": [
+      {
+        "subscriberType": 4,
+        "threshold": [],
+        "notifyWay": [],
+        "kimEmailPre": [
+          ""
+        ],
+        "selected": false
+      },
+      {
+        "subscriberType": 5,
+        "threshold": [],
+        "notifyWay": [],
+        "kimEmailPre": [
+          ""
+        ],
+        "selected": false
+      },
+      {
+        "subscriberType": 6,
+        "threshold": [],
+        "notifyWay": [],
+        "kimEmailPre": [
+          ""
+        ],
+        "selected": false
+      },
+      {
+        "subscriberType": 7,
+        "threshold": [],
+        "notifyWay": [],
+        "kimEmailPre": [
+          ""
+        ],
+        "selected": false
+      }
+    ],
+    "activityStatistics": {
+      "orderPlatformSubsidyFee": 0,
+      "paidPlatformSubsidyFee": 0,
+      "estimatePaidOrderGMV": 0,
+      "paidOrderGMV": 0,
+      "orderSubsidyFeeRateOfBudget": 0,
+      "paidSubsidyFeeRateOfBudget": 0,
+      "paidOrderROI": 0,
+      "expendPlatBearAmt": 0,
+      "refundPlatBearAmt": 0,
+      "recvPlatBearAmt": 0,
+      "createPlatBearAmt": 0
+    },
+    "principals": [
+      "wangziheng07"
+    ],
+    "operatePermission": true,
+    "operationPermissionsVO": {
+      "createZeroThreshold": false,
+      "maigaoSource": false,
+      "operateInLegoWithmaigaoSource": false,
+      "canUseBatchCategoryReportSubmit": false
+    },
+    "source": "Lego_v2",
+    "extraInfo": {
+      "principals": [
+        "wangziheng07"
+      ]
+    },
+    "activityTypeText": null,
+    "caliberDesc": null,
+    "statisticCards": null,
+    "jumpUrl": null,
+    "multiBudget": false,
+    "multiBudgetAllocation": null,
+    "notice": null,
+    "routeToOaSplit": true,
+    "bizScene": 0
+  }
+}
