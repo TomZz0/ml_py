@@ -1,0 +1,14 @@
+{
+  "activityTagCode": null,
+  "offlineItemWhenActivityOffline": false,
+  "lockItemPrice": true,
+  "sendCouponAmountLimit": 0,
+  "principals": [
+    "wangziheng07"
+  ],
+  "extraConfig": {},
+  "disable": false,
+  "couponMinusType": "3",
+  "allowanceActivityAliasType": 0,
+  "bizScene": null
+}
